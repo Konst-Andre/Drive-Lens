@@ -1,3 +1,5 @@
+> живе доки: друге за свіжістю самері Drive Lens (стеля 2); прийде новіше — у `archive/summaries/`. Перенесено з ПК Konst 04.10.2026; текст нижче — без змін, епоха claude.ai Project.
+
 # Drive Lens — Session Summary · Batch 40–41
 
 **Тема:** ПЕРЕМОГА над багом safe-area — фікс висоти (40) + повернення Liquid Glass (41), обидва device-валідовано
